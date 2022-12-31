@@ -13,7 +13,7 @@
         <div class="colm-form">
             <div class="form-container">
                 <h2>Welcome to your dashboard</h2>
-                <form action="/logout.php" method="post">
+                <form action="logout.php" method="post">
                     <input type="submit" value="logout" class="btn-login" name="logout">
                 </form>
             </div>
